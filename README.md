@@ -1,5 +1,5 @@
 # Search-Engine
-for the Data Structures course(CS300)
+utilizes Linked List to implement a local search engine
 
 This program takes a text(.txt) file named "docdb.txt" as its input and then presents a query to the user.
 The user should enter the number of words to be search for and the words to be searched for in the following format:
