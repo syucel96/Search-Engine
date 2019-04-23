@@ -1,0 +1,10 @@
+sabanci 1
+computer 1
+sabanci 2
+engineering 1
+engineering 2
+software 3
+computer 3
+application 3
+university 2
+university 4
