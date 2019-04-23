@@ -9,4 +9,4 @@ The user should enter the number of words to be search for and the words to be s
 Example:
 2 computer engineering
 
-!Important:The repository includes 3 sample inputs named docdb1.txt, docdb2.txt and docdb3.txt. In order for the program to work, you need to rename the input you want it to take to "docdb.txt".
+!Important:The repository includes 3 sample inputs named docdb1.txt, docdb2.txt and docdb3.txt. In order for the program to work, you need to rename the input file you want it to take to "docdb.txt".
